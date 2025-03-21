@@ -1,0 +1,23 @@
+Programming & Game Development notes
+
+Game world: 3D Low poly graphics
+Genre: RPG Action Non-Violence game
+
+Game Features: Quests, Shops, Inventory, Maneuvering, Dialogues
+
+Unity Game Engine Capability
+1) Live mini map with important icons
+2) Interactive UI
+3) Simple Settings
+4) (Save / Load) features
+5) Cinematics
+
+Programming language: C#
+Programming Capability: 
+1) Inventory Management System
+2) Budget, Monetary system
+3) Simple scoring system
+4) Updating Quest Logs
+5) World map with icons
+6) Interactive world elements
+7) 3D Character Controller
