@@ -1,0 +1,23 @@
+Character Controller
+---------------------
+Walk
+
+W -> Forward
+A -> Left
+D -> Right
+S -> Backward
+
+WA -> Forward speed
+WD -> Forward speed
+
+---------------------
+Run
+
+W -> Run
+A -> Left
+D -> Right
+S -> Backward
+
+WA -> Run diagonal speed
+WD -> Run diagonal speed
+---------------------
